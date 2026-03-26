@@ -87,8 +87,8 @@ El usuario juega contra la computadora. El programa debe llevar la cuenta de qui
 ## Tecnologías y Librerías usadas
 
 * ![Python](/img/logos_tecnologías/icons8-python-48.png)
-* ![Markdown](/img/logos_tecnologías/icons8-markdown-30.png)
-* ![GitHub](/img/logos_tecnologías/icons8-github-logo-30.png)
+* ![Markdown](/img/logos_tecnologías/icons8-markdown-50.png)
+* ![GitHub](/img/logos_tecnologías/icons8-github-50.png)
 * ![Antigravity](https://antigravity.google/)
 * ![Icons8](/img/logos_tecnologías/icons8-icons8-48.png)
 
