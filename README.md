@@ -87,7 +87,7 @@ El usuario juega contra la computadora. El programa debe llevar la cuenta de qui
 ## Tecnologías y Librerías usadas
 
 * [Python](https://www.python.org/)
-* [Markdown](https://www.markdownguide.org/)
+* [Markdown](https://icons8.com/icon/21827/markdown)
 * [GitHub](https://github.com/)
 * [Antigravity](https://antigravity.google/)
 
