@@ -6,18 +6,18 @@ También es el inicio del camino hacia el **Protocolo Izagani** para la excelenc
 
 ## Progreso
 
-| Mini Proyecto | Estado       |
-|---------------|--------------|
-| 01            | ⏳ Pendiente |
-| 02            | ⏳ Pendiente |
-| 03            | ⏳ Pendiente |
-| 04            | ⏳ Pendiente |
-| 05            | ⏳ Pendiente |
-| 06            | ⏳ Pendiente |
-| 07            | ⏳ Pendiente |
-| 08            | ⏳ Pendiente |
-| 09            | ⏳ Pendiente |
-| 10            | ⏳ Pendiente |
+| Mini Proyecto | Estado        |
+|---------------|---------------|
+| 01            | ✅ Completado |
+| 02            | ⏳ Pendiente  |
+| 03            | ⏳ Pendiente  |
+| 04            | ⏳ Pendiente  |
+| 05            | ⏳ Pendiente  |
+| 06            | ⏳ Pendiente  |
+| 07            | ⏳ Pendiente  |
+| 08            | ⏳ Pendiente  |
+| 09            | ⏳ Pendiente  |
+| 10            | ⏳ Pendiente  |
 
 ## Explicación Rápida
 
