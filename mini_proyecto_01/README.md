@@ -5,4 +5,8 @@ Este programa pide el total de la cuenta, el porcentaje de propina que desean de
 * Conceptos: Entrada de datos (input), conversión de tipos (float, int) y operaciones aritméticas.
 
 * Fecha Inicio: 28/03/2026
-* Fecha Fin:
+* Fecha Fin: 28/03/2026
+
+## Licencia
+
+~ Este MVP esta bajo la licencia MIT.
