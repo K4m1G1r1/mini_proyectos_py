@@ -10,7 +10,7 @@ También es el inicio del camino hacia el **Protocolo Izagani** para la excelenc
 |---------------|---------------|
 | 01            | ✅ Completado |
 | 02            | ✅ Completado |
-| 03            | ⏳ Pendiente  |
+| 03            | ✅ Completado |
 | 04            | ⏳ Pendiente  |
 | 05            | ⏳ Pendiente  |
 | 06            | ⏳ Pendiente  |
