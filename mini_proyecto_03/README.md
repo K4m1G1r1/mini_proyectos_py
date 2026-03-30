@@ -5,7 +5,7 @@ La computadora elige un número al azar entre 1 y 50, y el usuario tiene que adi
 * Conceptos: Importar módulos (import random), bucles while y comparaciones.
 
 * Fecha Inicio: 30/03/2026
-* Fecha Fin: /03/2026
+* Fecha Fin: 30/03/2026
 
 ## Licencia
 
