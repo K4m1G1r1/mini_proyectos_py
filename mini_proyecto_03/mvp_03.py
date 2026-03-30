@@ -27,5 +27,6 @@ while True:
 		print("¡Casi!, mi número es mayor al que pensaste, intentalo nuevamente")
 		continue
 
+# Paso 4: Cierre del juego
 print("Gracias por jugar conmigo un rato, eres libre de seguir tu camino hacia el éxtio.")
 print("Bye bye")
