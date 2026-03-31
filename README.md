@@ -2,7 +2,7 @@
 
 Este repositorio contiene una colección de proyectos básicos desarrollados en Python. Cada proyecto aunque se hayan realizado por otras personas, es el inicio de una nueva aventura para mi, para aprender y entender mejor el funcionamiento de Python y sus librerías.
 
-También es el inicio del camino hacia el **Protocolo Izagani** para la excelencia en Ingeniería Mecatrónica, Robótica y Ciberseguridad OT.
+También es el inicio del camino hacia el **Protocolo Izagani** para la excelencia en el *Tecnológico en Desarrollo de Software, Ingeniería Electrónica y Especialización en Robótica y Ciberseguridad **OT***.
 
 ## Progreso
 
@@ -11,7 +11,7 @@ También es el inicio del camino hacia el **Protocolo Izagani** para la excelenc
 | 01            | ✅ Completado |
 | 02            | ✅ Completado |
 | 03            | ✅ Completado |
-| 04            | ⏳ Pendiente  |
+| 04            | ✅ Completado |
 | 05            | ⏳ Pendiente  |
 | 06            | ⏳ Pendiente  |
 | 07            | ⏳ Pendiente  |
